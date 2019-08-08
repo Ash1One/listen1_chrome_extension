@@ -1,6 +1,6 @@
-Listen 1 (Chrome Extension) V2.1.5
+Listen 1 (Chrome Extension) V2.4.0
 ==========
-（最后更新于2019年03月03日）
+（最后更新于2019年07月03日）
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
@@ -46,6 +46,24 @@ Firefox打包安装
 
 更新日志
 -------
+`2019-07-03`
+* 修复咪咕音乐无法播放的bug
+
+`2019-06-24`
+* 增加咪咕音乐
+* 修复网易音乐无法播放的bug
+* 修复酷狗音乐无法播放的bug
+
+`2019-06-23`
+* 修复无法连接到github的bug
+
+`2019-05-26`
+* 修复酷狗音乐无法播放的bug
+
+`2019-04-26`
+* 修复虾米音乐无法播放的bug
+* 修复播放器未在页面底端显示的bug
+
 `2019-03-03`
 * 修复删除单个歌曲导致歌单所有歌曲消失的bug
 * 修复删除单个歌单导致所有歌单消失的bug
